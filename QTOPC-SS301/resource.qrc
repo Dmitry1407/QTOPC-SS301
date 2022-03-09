@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/plc/run.png</file>
+        <file>icons/plc/stop.png</file>
+        <file>icons/file/file_new.png</file>
+        <file>icons/file/file_open.png</file>
+        <file>icons/file/file_save.png</file>
+        <file>icons/edit/minus.png</file>
+        <file>icons/edit/plus.png</file>
+        <file>icons/file/file_quit.png</file>
+        <file>icons/file/file_save_as.png</file>
+        <file>icons/file/toolbox_16.png</file>
+        <file>icons/file/toolbox_32.png</file>
+    </qresource>
+</RCC>
